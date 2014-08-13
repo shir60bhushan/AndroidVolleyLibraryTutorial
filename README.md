@@ -5,6 +5,9 @@ This code is about the integrating the volley networking library for doing the f
 At Google I/O last year, the search engine giant showcased a faster way to make network requests within an Android application by introducing the Volley networking library. Volley includes a lot of features useful for managing network requests and their response caches in a fast and easy way.
 One can use Volley to run simultaneous requests on a pool of threads that can be given priority over another. In addition, it can be used to handle JSON requests, image request or files of that size and nature.
 In this tutorial, we will learn how to setup Volley for Android and write a sample code to make a JSON request.
+
+
+
 Advantages of Volley library
 
 a)  Automatically schedules the network requests
@@ -17,4 +20,5 @@ d) Provides a good API for canceling requests. You can cancel a single request, 
 
 
 For more info refer following link
+
 http://androidtutorials60.weebly.com/home/fast-way-to-do-network-operation-using-volley-library
